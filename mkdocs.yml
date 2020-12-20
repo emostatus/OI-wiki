@@ -2,13 +2,13 @@
 site_name: OI Wiki
 site_description: OI Wiki 是一个编程竞赛知识整合站点，提供有趣又实用的编程竞赛知识以及其他有帮助的内容，帮助广大编程竞赛爱好者更快更深入地学习编程竞赛
 site_author: OI Wiki Team
-site_url: https://oi-wiki.org
+site_url: http://127.0.0.1:8000
 strict: true
 
 # Repository
-repo_name: 'OI-wiki/OI-wiki'
-repo_url: 'https://github.com/OI-wiki/OI-wiki'
-edit_uri: 'https://oi-wiki.org/edit-landing/?ref='
+repo_name: 'emostatus/OI-wiki'
+repo_url: 'https://github.com/emostatus/OI-wiki'
+edit_uri: 'https://127.0.0.1:8000/edit-landing/?ref='
 
 # Copyright
 copyright: 'Copyright &copy; 2016 - 2020 OI Wiki Team'
